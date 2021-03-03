@@ -8,14 +8,14 @@ faa,name,lat,lon,alt,tz,dst,tzone
 0G6,Williams County Airport,41.4673056,-84.5067778,730,-5,A,America/New_York
 0G7,Finger Lakes Regional Airport,42.8835647,-76.7812318,492,-5,A,America/New_York
 0P2,Shoestring Aviation Airfield,39.7948244,-76.6471914,1000,-5,U,America/New_York
-0S9,Jefferson County Intl,48.053808600000004,-122.8106436,108,-8,A,America/Los_Angeles
+0S9,Jefferson County Intl,48.0538086,-122.8106436,108,-8,A,America/Los_Angeles
 0W3,Harford County Airport,39.5668378,-76.2024028,409,-5,A,America/New_York
 10C,Galt Field Airport,42.4028889,-88.3751111,875,-6,U,America/Chicago
 17G,Port Bucyrus-Crawford County Airport,40.7815556,-82.9748056,1003,-5,A,America/New_York
 19A,Jackson County Airport,34.1758638,-83.5615972,951,-5,U,America/New_York
 1A3,Martin Campbell Field Airport,35.0158056,-84.3468333,1789,-5,A,America/New_York
 1B9,Mansfield Municipal,42.0001331,-71.1967714,122,-5,A,America/New_York
-1C9,Frazier Lake Airpark,54.013333333333335,-124.76833333333333,152,-8,A,America/Vancouver
+1C9,Frazier Lake Airpark,54.01333333,-124.7683333,152,-8,A,America/Vancouver
 1CS,Clow International Airport,41.6959744,-88.1292306,670,-6,U,America/Chicago
 1G3,Kent State Airport,41.1513889,-81.4151111,1134,-5,A,America/New_York
 1G4,Grand Canyon West Airport,35.899904,-113.815674,4813,-7,A,America/Phoenix
@@ -79,7 +79,7 @@ faa,name,lat,lon,alt,tz,dst,tzone
 9A1,Covington Municipal Airport,33.6323083,-83.8474472,809,-5,A,America/New_York
 9A5,Barwick Lafayette Airport,34.6884792,-85.2903319,777,-5,A,America/New_York
 9G1,Rock Airport,40.6035463,-79.8261189,1063,-5,A,America/New_York
-A39,Phoenix Regional Airport,32.99169921875,-111.920997619629,1300,-7,A,America/Phoenix
+A39,Phoenix Regional Airport,32.99169922,-111.9209976,1300,-7,A,America/Phoenix
 A50,Colorado Springs East,38.87,-104.41,6145,-7,A,America/Denver
 AAF,Apalachicola Regional Airport,29.7276066,-85.0274416,20,-5,A,America/New_York
 AAP,Andrau Airport,29.43,-95.35,80,-6,A,America/Chicago
@@ -147,7 +147,7 @@ ARA,Acadiana Rgnl,30.037758,-91.883896,24,-6,A,America/Chicago
 ARB,Ann Arbor Municipal Airport,42.132274,-83.444418,839,-5,A,America/New_York
 ARC,Arctic Village Airport,68.1147,-145.579,2092,-9,A,America/Anchorage
 ART,Watertown Intl,43.991922,-76.021739,325,-5,A,America/New_York
-ARV,Lakeland,45.927778000000004,-89.730833,1629,-6,A,America/Chicago
+ARV,Lakeland,45.927778,-89.730833,1629,-6,A,America/Chicago
 ASE,Aspen Pitkin County Sardy Field,39.2232,-106.869,7820,-7,A,America/Denver
 ASH,Boire Field Airport,42.78175,-71.5147778,199,-5,A,America/New_York
 AST,Astoria Regional Airport,46.157972,-123.878694,15,-8,A,America/Los_Angeles
@@ -200,7 +200,7 @@ BIL,Billings Logan International Airport,45.80921,-108.537654,3652,-7,A,America/
 BIS,Bismarck Municipal Airport,46.775842,-100.757931,1661,-6,A,America/Chicago
 BIV,Tulip City Airport,42.7427778,-86.1078333,698,-5,A,America/New_York
 BIX,Keesler Afb,30.410425,-88.924433,33,-6,A,America/Chicago
-BJC,Rocky Mountain Metropolitan Airport,39.90888888,-105.11722222,5670,-7,A,America/Denver
+BJC,Rocky Mountain Metropolitan Airport,39.90888888,-105.1172222,5670,-7,A,America/Denver
 BJI,Bemidji Regional Airport,47.510722,-94.934722,1391,-6,A,America/Chicago
 BKC,Buckland Airport,65.981667,-161.149167,31,-9,A,America/Anchorage
 BKD,Stephens Co,32.719047,-98.891,1284,-6,A,America/Chicago
@@ -259,7 +259,7 @@ C91,Dowagiac Municipal Airport,41.9929342,-86.1280125,748,-5,U,America/New_York
 CAE,Columbia Metropolitan,33.938833,-81.119528,236,-5,A,America/New_York
 CAK,Akron Canton Regional Airport,40.9160833,-81.4421944,1228,-5,A,America/New_York
 CAR,Caribou Muni,46.8715,-68.017917,626,-5,A,America/New_York
-CBE,Greater Cumberland Rgnl.,39.615278000000004,-78.760556,775,-5,A,America/New_York
+CBE,Greater Cumberland Rgnl.,39.615278,-78.760556,775,-5,A,America/New_York
 CBM,Columbus Afb,33.643833,-88.443833,219,-6,A,America/Chicago
 CCO,Coweta County Airport,33.3115656,-84.7697554,970,-5,A,America/New_York
 CCR,Buchanan Field Airport,37.9896667,-122.0568889,26,-8,A,America/Los_Angeles
@@ -481,7 +481,7 @@ FFA,First Flight Airport,36.02,-75.67,13,-5,A,America/New_York
 FFC,Atlanta Regional Airport - Falcon Field,33.35725,-84.5718333,808,-5,A,America/New_York
 FFO,Wright Patterson Afb,39.826111,-84.048332,823,-5,A,America/New_York
 FFT,Capital City Airport,38.1819722,-84.9061389,812,-5,A,America/New_York
-FFZ,Mesa Falcon Field,33.4608001708984,-111.727996826172,1394,-7,A,America/Phoenix
+FFZ,Mesa Falcon Field,33.46080017,-111.7279968,1394,-7,A,America/Phoenix
 FHU,Sierra Vista Muni Libby Aaf,31.588472,-110.344389,4719,-7,A,America/Phoenix
 FIT,Fitchburg Municipal Airport,42.5541111,-71.7589722,348,-5,A,America/New_York
 FKL,Franklin,41.377874,-79.860362,1540,-5,A,America/New_York
@@ -626,11 +626,11 @@ HUF,Terre Haute Intl Hulman Fld,39.451464,-87.307561,589,-5,A,America/New_York
 HUL,Houlton Intl,46.123083,-67.792056,489,-5,A,America/New_York
 HUS,Hughes Airport,66.039167,-154.264722,299,-9,A,America/Anchorage
 HUT,Hutchinson Municipal Airport,38.0655,-97.8606,1543,-6,A,America/Chicago
-HVN,Tweed-New Haven Airport,41.26375,-72.886806000000007,14,-5,A,America/New_York
+HVN,Tweed-New Haven Airport,41.26375,-72.886806,14,-5,A,America/New_York
 HVR,Havre City Co,48.542983,-109.762342,2590,-7,A,America/Denver
-HWD,Hayward Executive Airport,37.65888888888889,-122.12166666666666,52,-8,A,America/Los_Angeles
+HWD,Hayward Executive Airport,37.65888889,-122.1216667,52,-8,A,America/Los_Angeles
 HWO,North Perry,26.001222,-80.240722,8,-5,A,America/New_York
-HXD,Hilton Head Airport,32.2243611,-80.697472200000007,19,-5,A,America/New_York
+HXD,Hilton Head Airport,32.2243611,-80.6974722,19,-5,A,America/New_York
 HYA,Barnstable Muni Boardman Polando Fld,41.669336,-70.280356,55,-5,A,America/New_York
 HYG,Hydaburg Seaplane Base,55.206389,-132.828333,0,-9,A,America/Anchorage
 HYL,Hollis Seaplane Base,55.481667,-132.646111,0,-9,A,America/Anchorage
@@ -683,7 +683,7 @@ IWD,Gogebic Iron County Airport,46.5274747,-90.1313967,1230,-6,U,America/Chicago
 IWS,West Houston,29.818194,-95.672611,111,-6,A,America/Chicago
 IYK,Inyokern Airport,35.658889,-117.829444,2455,-8,A,America/Los_Angeles
 IZG,Eastern Slopes Regional,43.9911389,-70.9478889,455,-5,A,America/New_York
-JAC,Jackson Hole Airport,43.607333333,-110.73775,6451,-7,A,America/Denver
+JAC,Jackson Hole Airport,43.60733333,-110.73775,6451,-7,A,America/Denver
 JAN,Jackson Evers Intl,32.311167,-90.075889,346,-6,A,America/Chicago
 JAX,Jacksonville Intl,30.494056,-81.687861,30,-5,A,America/New_York
 JBR,Jonesboro Muni,35.831708,-90.646417,262,-6,A,America/Chicago
@@ -691,7 +691,7 @@ JCI,New Century AirCenter Airport,38.8309167,-94.8903056,1087,-6,A,America/Chica
 JEF,Jefferson City Memorial Airport,38.5912,-92.1561,549,-6,A,America/Chicago
 JES,Jesup-Wayne County Airport,31.553889,-81.8825,107,-5,A,America/New_York
 JFK,John F Kennedy Intl,40.639751,-73.778925,13,-5,A,America/New_York
-JGC,Grand Canyon Heliport,35.96666666,-112.13333333,2500,-7,A,America/Phoenix
+JGC,Grand Canyon Heliport,35.96666666,-112.1333333,2500,-7,A,America/Phoenix
 JHM,Kapalua,20.962936,-156.673031,256,-10,N,Pacific/Honolulu
 JHW,Chautauqua County-Jamestown,42.153333,-79.258056,525,-5,A,America/New_York
 JKA,Jack Edwards Airport,30.2896389,-87.6717778,17,-6,A,America/Chicago
@@ -708,7 +708,7 @@ JYL,Plantation Airpark,32.6452778,-81.5971111,188,-5,A,America/New_York
 JYO,Leesburg Executive Airport,39.078,-77.558,389,-5,A,America/New_York
 JZP,Pickens County Airport,34.4534722,-84.4572222,1535,-5,A,America/New_York
 K03,Wainwright As,70.613378,-159.86035,35,-9,A,America/Anchorage
-K27,Burrello-Mechanicville Airport,42.893133,-73.668450000000007,195,-5,A,America/New_York
+K27,Burrello-Mechanicville Airport,42.893133,-73.66845,195,-5,A,America/New_York
 K83,Sabetha Municipal,39.5425,-95.4677,1330,-6,A,America/Chicago
 KAE,Kake Seaplane Base,56.973056,-133.945556,0,-9,A,America/Anchorage
 KAL,Kaltag Airport,64.3191,-158.741,187,-9,A,America/Anchorage
@@ -730,7 +730,7 @@ KLL,Levelock Airport,59.128056,-156.858611,39,-9,A,America/Anchorage
 KLN,Larsen Bay Airport,57.535,-153.976667,87,-9,A,America/Anchorage
 KLS,Kelso Longview,46.118,-122.898389,20,-8,A,America/Los_Angeles
 KLW,Klawock Airport,55.579167,-133.076111,80,-9,A,America/Anchorage
-KMO,Manokotak Airport,58.990278000000004,-159.05,51,-9,A,America/Anchorage
+KMO,Manokotak Airport,58.990278,-159.05,51,-9,A,America/Anchorage
 KMY,Moser Bay Seaplane Base,57.025556,-154.145833,0,-9,A,America/Anchorage
 KNW,New Stuyahok Airport,59.4499,-157.328,302,-9,A,America/Anchorage
 KOA,Kona Intl At Keahole,19.738767,-156.045631,47,-10,N,Pacific/Honolulu
@@ -760,7 +760,7 @@ KYU,Koyukuk Airport,64.875833,-157.730556,149,-9,A,America/Anchorage
 KZB,Zachar Bay Seaplane Base,57.55,-153.75,0,-9,A,America/Anchorage
 L06,Furnace Creek,36.273,-116.515,0,-8,A,America/Los_Angeles
 L35,Big Bear City,34.2637778,-116.8560278,6725,-8,A,America/Los_Angeles
-L52,Oceano County Airport,35.10147222,-120.62236111,14,-8,U,America/Los_Angeles
+L52,Oceano County Airport,35.10147222,-120.6223611,14,-8,U,America/Los_Angeles
 LAA,Lamar Muni,38.069694,-102.6885,3706,-7,A,America/Denver
 LAF,Purude University Airport,40.4123056,-86.9368889,606,-5,A,America/New_York
 LAL,Lakeland Linder Regional Airport,27.9889167,-82.0185556,142,-5,A,America/New_York
@@ -940,7 +940,7 @@ MWH,Grant Co Intl,47.207708,-119.32019,1185,-8,A,America/Los_Angeles
 MWL,Mineral Wells,32.781606,-98.060175,974,-6,A,America/Chicago
 MWM,Windom Municipal Airport,43.9134017,-95.1094083,1410,-6,A,America/Chicago
 MXF,Maxwell Afb,32.382944,-86.365778,171,-6,A,America/Chicago
-MXY,McCarthy Airport,61.4370608,-142.90307372,1531,-9,U,America/Anchorage
+MXY,McCarthy Airport,61.4370608,-142.9030737,1531,-9,U,America/Anchorage
 MYF,Montgomery Field,32.4759,117.759,17,8,A,Asia/Chongqing
 MYL,McCall Municipal Airport,44.889722,-116.101389,5021,-7,A,America/Denver
 MYR,Myrtle Beach Intl,33.67975,-78.928333,25,-5,A,America/New_York
@@ -1011,7 +1011,7 @@ OJC,Johnson County Airport,38.5051,-94.4415,1096,-6,A,America/Chicago
 OKC,Will Rogers World,35.393089,-97.600733,1295,-6,A,America/Chicago
 OLF,LM Clayton Airport,48.094444,-105.575,1986,-7,A,America/Denver
 OLH,Old Harbor Airport,57.218056,-153.269722,55,-9,A,America/Anchorage
-OLM,Olympia Regional Airpor,46.9694044,-122.90254470000001,209,-8,A,America/Los_Angeles
+OLM,Olympia Regional Airpor,46.9694044,-122.9025447,209,-8,A,America/Los_Angeles
 OLS,Nogales Intl,31.417722,-110.84789,3955,-7,A,America/Phoenix
 OLT,San Diego Old Town Transit Center,32.7552,-117.1995,0,-8,A,America/Los_Angeles
 OLV,Olive Branch Muni,34.876944,-89.783333,350,-6,A,America/Chicago
@@ -1044,8 +1044,8 @@ OXC,Waterbury-Oxford Airport,41.4785556,-73.13525,726,-5,A,America/New_York
 OXD,Miami University Airport,39.5022607,-84.7843814,1040,-5,U,America/New_York
 OXR,Oxnard - Ventura County,34.200833,-119.207222,15,-8,A,America/Los_Angeles
 OZA,Ozona Muni,30.735281,-101.202972,2381,-6,A,America/Chicago
-P08,Coolidge Municipal Airport,32.9359016418457,-111.427001953125,1574,-7,A,America/Phoenix
-P52,Cottonwood Airport,34.7299995422363,-112.035003662109,3550,-7,A,America/Phoenix
+P08,Coolidge Municipal Airport,32.93590164,-111.427002,1574,-7,A,America/Phoenix
+P52,Cottonwood Airport,34.72999954,-112.0350037,3550,-7,A,America/Phoenix
 PAE,Snohomish Co,47.906342,-122.281564,606,-8,A,America/Los_Angeles
 PAH,Barkley Regional Airport,37.0602875,-88.7729583,410,-6,A,America/Chicago
 PAM,Tyndall Afb,30.069567,-85.575417,17,-6,A,America/Chicago
@@ -1119,7 +1119,7 @@ PUC,Carbon County Regional-Buck Davis Field,39.609722,-110.75278,5957,-7,A,Ameri
 PUW,Pullman-Moscow Rgnl,46.743861,-117.109583,2556,-8,A,America/Los_Angeles
 PVC,Provincetown Muni,42.071945,-70.22139,9,-5,A,America/New_York
 PVD,Theodore Francis Green State,41.732581,-71.420383,55,-5,A,America/New_York
-PVU,Provo Municipal Airport,40.21805555,-111.72222222,4497,-7,A,America/Denver
+PVU,Provo Municipal Airport,40.21805555,-111.7222222,4497,-7,A,America/Denver
 PWK,Chicago Executive,42.1142897,-87.9015376,647,-6,A,America/Chicago
 PWM,Portland Intl Jetport,43.646161,-70.309281,77,-5,A,America/New_York
 PWT,Bremerton National,47.490244,-122.764814,444,-8,A,America/Los_Angeles
@@ -1198,7 +1198,7 @@ SBS,Steamboat Springs Airport-Bob Adams Field,40.51625,-106.8663056,6882,-7,A,Am
 SBY,Salisbury Ocean City Wicomico Rgnl,38.340525,-75.510289,52,-5,A,America/New_York
 SCC,Deadhorse,70.19475,-148.465167,64,-9,A,America/Anchorage
 SCE,University Park Airport,40.849278,-77.848694,1239,-5,A,America/New_York
-SCH,Stratton ANGB - Schenectady County Airpor,42.85245555,-73.928866666,378,-5,A,America/New_York
+SCH,Stratton ANGB - Schenectady County Airpor,42.85245555,-73.92886667,378,-5,A,America/New_York
 SCK,Stockton Metropolitan,37.894167,-121.238306,33,-8,A,America/Los_Angeles
 SCM,Scammon Bay Airport,61.845278,-165.571389,14,-9,A,America/Anchorage
 SDC,Williamson-Sodus Airport,43.2347904,-77.119444,424,-5,A,America/New_York
